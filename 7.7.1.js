@@ -2,7 +2,7 @@ function printInfo () {
     console.log(`Name: ${this.name}, Age: ${this.age}`)
 }
   
-let person = {
+const person = {
     name : 'John',
     age : 23
 }
